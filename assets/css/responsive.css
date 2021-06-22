@@ -1,0 +1,449 @@
+@media screen and (min-width: 1200px) {
+    .image-box img{
+        height: 100vh;
+        width: 100%;
+        object-fit: cover;
+    }
+
+    .contact_page{
+        width: 100%;
+        height: auto;
+    }
+    .row-1{
+        width: 100%;
+        height: auto;
+    }
+    .col-sm-6 h2{
+        margin-bottom: 14px;
+    }
+    .two-head{
+        margin-top: 20px;
+    }
+    .image-box .left-border {
+        bottom: 85px;
+    }
+
+}
+
+@media screen and (max-width: 1200px) {
+   .service-1{
+       width: 100%;
+       height: auto;
+   }
+   .two-head{
+       margin-top: 20px;
+   }
+}
+
+@media screen and (min-width: 1024px) {}
+
+@media screen and (max-width: 1024px) {}
+
+@media screen and (min-width: 992px) and (max-width: 1200px) {
+    .image-box img{
+        height: 100vh;
+        width: 100%;
+        object-fit: cover;
+    }
+}
+
+@media screen and (min-width: 992px) and (max-width: 1024px) {}
+
+@media screen and (min-width: 992px) {
+    .image-box img{
+        height: 100vh;
+        width: 100%;
+        object-fit: cover;
+    }
+    .col-sm-6 h2{
+        margin-bottom: 14px;
+    }
+    .image-box .left-border{
+        font-size: 42px;
+        position: absolute;
+        bottom: 142px;
+       
+    }
+    .image-box  img{
+        position: relative;
+    }
+    
+    
+}
+
+@media screen and (max-width: 992px) {
+    .clients-slider .slide img{
+        height: 58px;
+        margin: auto;
+    }
+    .slick-dots li{
+        display: none;
+    }
+    .image-box img{
+        height: 90vh;
+        width: 100%;
+    }
+    .map-box .map-control {
+        width: 100%;
+        height: 240px;
+    }
+    .heading_cont{
+        margin-left:25px ;
+    }
+    .line{
+        margin-left: 25px;
+        margin-bottom: 45px;
+    }
+}
+  
+
+@media screen and (min-width: 768px) and (max-width: 992px) {
+    .nav{
+        padding: 0px 52px;
+    }
+    .left-side h2{
+        font-size: 21px;
+    }
+    .col-sm-12 h2{
+        margin-bottom: 12px;
+    }
+    .col-sm-12 p{
+        font-size: 15px;
+    }
+    .col-sm-12 ul li{
+        font-size: 15px;
+    }
+    .image-box .left-border{
+        font-size: 35px;
+        bottom: 120px;
+        border-bottom: 2px solid white;
+        color: #33c9e8;
+        position: absolute;
+        margin-left: 50px;
+        border-left: 2px solid white   
+    }
+    .image-box  img{
+        width: 100%;
+        height: 71vh;
+        position: relative;
+    }
+    
+   
+
+
+
+    
+}
+
+@media screen and (min-width: 600px) and (max-width: 992px) {
+   
+}
+
+@media (max-width: 900px) {
+    
+}
+
+@media screen and (max-width: 768px) {
+    .d-flex li{
+        justify-content: space-between;
+    }
+    .nav{
+        padding: 0px 40px;
+        height: 77px;
+    }    
+    .right-side ul{
+        display: none;
+    }
+    .mobile-toogle{
+        display: block;
+        margin-top: 26px;
+    }
+    .left-side h2{
+        font-size: 21px;
+    }
+    .content-Body{
+        position: absolute;
+        bottom: 15px;
+        padding: 6px;
+        margin-left: 78px;
+    }
+    
+    .contact_page .contact_img{
+        width: 100%;
+        height: auto;
+    }
+    
+    .service-row{
+        width: 100%;
+        height: auto;
+        margin-bottom: 65px;
+    }
+    .service-row:nth-child(odd){
+        flex-direction: column-reverse;
+    }
+    .image-change img{
+        display: none;
+    }
+  
+    .mb{
+        margin-bottom: 10px;
+    }
+   
+    .image-box  img{
+        height: 80vh;
+        width: 100%;
+        position: relative;
+    }
+    .image-box .left-border{
+        font-size: 31px;
+        bottom: 93px;
+
+    }
+    .map-box .map-control {
+        width: 100%;
+        height: 174px;
+    }
+    .heading_cont{
+        margin-left:25px ;
+    }
+    .line{
+        margin-left: 25px;
+        margin-bottom: 45px;
+    }
+    .touch{
+        font-size: 28px;
+    }
+   
+  
+    
+
+
+    /* Services Page */
+   
+    .col-sm-12 p{
+        font-size: 15px;
+    }
+    .col-sm-12 ul li{
+        font-size: 15px;
+    }
+    .our-mission{
+        display: none;
+    }
+
+
+    .col h2{
+        font-size: 14px;
+        font-weight: 600;
+    }
+    .col p{
+        font-size: 15px;
+    }
+    .col ul li{
+        font-size: 13px;
+    }
+    .service-1{
+        display: block;
+    }
+    marquee ul li{
+        font-size: 13px;
+    }
+    .two-head{
+        margin-top: 20px;
+    }
+    .membership img{
+        height: 50px;
+    }
+    .clients-slider .slide img{
+        height: 50px;
+        margin: auto;
+    }
+  
+
+    
+    
+}
+
+@media screen and (min-width: 768px) {
+    .content-Body{
+        position: absolute;
+        bottom: 35px;
+        padding: 0px;
+        margin-left: 115px;
+    }
+
+    .col h2{
+        font-size: 2.5rem;
+        font-weight: 600;
+    }
+    .col p{
+        font-size: 1.25remS;
+    }
+    .image-box .left-border{
+        position: absolute;
+        /* bottom: 65px; */
+
+    }
+    .image-box{
+        position: relative;
+    }
+    
+    
+}
+
+@media screen and (max-width: 600px) {
+    .image-box img {
+        height: 100vh;
+        width: 100%;
+        object-fit: cover;
+    }
+    .col-sm-6 h2{
+        font-size: 15px;
+        font-weight: 700;
+        margin-bottom: 10px;
+    }
+    .col-sm-6 p{
+        font-size: 14px;
+    }
+    .col-sm-6 ul li{
+        font-size: 14px;
+    }
+    .membership img{
+        height: 50px;
+        width: 128px;
+    }
+    .clients-say{
+        height: 165px;
+    }
+    .image-box .left-border{
+        font-size: 29px;
+        bottom: 70px;
+        border-bottom: 2px solid white;
+        color: #33c9e8;
+        position: absolute;
+        margin-left: 50px;
+        border-left: 2px solid white   
+    }
+    .image-box  img{
+        width: 100%;
+        height: 71vh;
+        position: relative;
+    }
+}
+
+@media screen and (min-width: 420px) and (max-width: 600px) {
+   .content-Body{
+    position: absolute;
+    bottom: 100px;
+    padding: 6px;
+    margin-left: 54px;
+   }
+    .image-box .content-Body .left-border{
+        font-size: 20px;
+    }
+}
+
+@media screen and (max-width: 550px) {
+    #submit{
+        width: 100%;
+        height: auto;
+    }
+   
+    .col-sm-12 p{
+        font-size: 14px;
+    }
+
+    .col-sm-12 ul li{
+        font-size: 14px;
+    }
+  
+    .clients-say{
+        margin-bottom: 10px;
+    }
+    .client_header{
+        font-size: 20px;
+    }
+    .clients-slider .slide img{
+        height: 44px;
+        margin: auto;
+    }
+    
+    .image-box  img{
+        width: 100%;
+        height: 70vh;
+    }
+    .image-box .left-border{
+        border-bottom: 2px solid white;
+        color: #33c9e8;
+        position: absolute;
+        bottom: 63px;
+        font-size: 23px;
+        margin-left: 44px;
+        border-left: 2px solid white
+    
+    }
+    .map-box .map-control {
+        width: 80%;
+        height: 174px;
+    }
+
+
+}
+
+@media screen and (max-width: 450px) {
+    marquee ul li{
+        font-size: 11px;
+    }
+    .nav{
+        height: 65px;
+    }
+    .bar1, .bar2, .bar3 {
+        width: 31px;
+        height: 3px;
+        background-color: #0ba0bf;
+        margin: 5px 0;
+        transition: 0.4s;
+        border-radius: 20px;
+      }
+    .left-side h2{
+        font-size: 16px;
+    }
+    .nav{
+        padding: 0px 20px;
+    } 
+   
+   
+    .content-Body{
+        position: absolute;
+        bottom: 200px;
+        padding: 6px;
+        margin-left: 54px;
+    }
+    .map-box iframe{
+        width: 100%;
+        height: auto;
+    }
+    .two-head{
+        margin-top: 17px;
+       }
+    .image-box .left-border{
+        border-bottom: 2px solid white;
+        color: #33c9e8;
+        position: absolute;
+        bottom: 50px;
+        font-size: 22px;
+        margin-left: 19px;
+        border-left: 2px solid white
+    
+    }
+    .image-box img {
+        height: 60vh;
+        width: 100%;
+        object-fit: cover;
+        position: relative;
+    }
+    .touch{
+        font-size: 24px;
+    }
+  
+  
+}
